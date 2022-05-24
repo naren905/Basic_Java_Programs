@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44" started-at="2022-01-16T15:46:46Z" finished-at="2022-01-16T15:46:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44" started-at="2022-01-16T15:46:46Z" finished-at="2022-01-16T15:46:46Z">
+      <class name="Interview.Program2">
+        <test-method status="PASS" signature="m2()[pri:-2, instance:Interview.Program2@36d4b5c]" name="m2" duration-ms="7" started-at="2022-01-16T15:46:46Z" finished-at="2022-01-16T15:46:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m1()[pri:-1, instance:Interview.Program2@36d4b5c]" name="m1" duration-ms="2" started-at="2022-01-16T15:46:46Z" finished-at="2022-01-16T15:46:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m5()[pri:0, instance:Interview.Program2@36d4b5c]" name="m5" duration-ms="3" started-at="2022-01-16T15:46:46Z" finished-at="2022-01-16T15:46:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+        <test-method status="PASS" signature="m3()[pri:2, instance:Interview.Program2@36d4b5c]" name="m3" duration-ms="2" started-at="2022-01-16T15:46:46Z" finished-at="2022-01-16T15:46:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method status="PASS" signature="m4()[pri:2, instance:Interview.Program2@36d4b5c]" name="m4" duration-ms="1" started-at="2022-01-16T15:46:46Z" finished-at="2022-01-16T15:46:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+      </class> <!-- Interview.Program2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
